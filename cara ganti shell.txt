@@ -1,4 +1,4 @@
-cara ganti shell
+cara ganti shell terminal linux
 
 $ chsh -s /bin/zsh
 $ sudo chsh -s /bin/zsh
