@@ -9,7 +9,7 @@ cara install firefox terbaru
     sudo mv firefox /opt
     
 ==> lalu buat link dengan mengetik:
-    sudo ls -s /opt/firefox/firefox /usr/bin/firefox    
+    sudo ln -s /opt/firefox/firefox /usr/bin/firefox    
     
 ==> jalan kan firefox dengan mengetik firefox diterminal linux atau buat shortcut    
 
