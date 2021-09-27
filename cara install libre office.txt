@@ -1,0 +1,7 @@
+==> extract file libreoffice
+tar -xzf namalibreoffice.tar.gz
+
+==> masuk ke folder hasil extract lalu masuk ke folder DEBS
+
+==> cara install
+sudo dpkg -i *.deb
