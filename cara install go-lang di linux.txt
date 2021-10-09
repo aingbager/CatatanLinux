@@ -18,7 +18,7 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 lalu ketik source ~/.bashrc
 
 
-===> untuk shell zsh: sudo nano ~/zshrc
+===> untuk shell zsh: sudo nano ~/.zshrc
 
 tambahkan parameter berikut:
 # Go Global variables
