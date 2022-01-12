@@ -5,3 +5,6 @@ tar -xzf namalibreoffice.tar.gz
 
 ==> cara install
 sudo dpkg -i *.deb
+
+==> cara remove di zsh
+==> sudo apt remove --purge libreoffice\*
