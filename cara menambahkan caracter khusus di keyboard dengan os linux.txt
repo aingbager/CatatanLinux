@@ -31,20 +31,20 @@ simbol matematika
 ∞ 	         Tak terhingga 	                221E
 ≤ 	         Kurang dari atau sama dengan 	2264
 ≥ 	         Lebih dari atau sama dengan 	2265
-π 	         Pi 	03C0
+π 	         Pi 	                        03C0
 √ 	         Akar kuadrat 	                221A
 ∛ 	         Akar kubik 	                221B 
 
 ===================================================
 tanda baca khusus
 
- Simbol   Nama  	                        Kode 
+Simbol    Nama  	                        Kode 
 ¡ 	      Tanda seru terbalik 	            00A1
 ¿ 	      Tanda tanya terbalik 	            00BF
 « 	      Tanda kutip miring kiri 	        00AB
 » 	      Tanda kutip miring kanan 	        00BB
-《 	      Kurung siku ganda kiri 	        300A
-》 	      Kurung siku ganda kanan 	        300B
+《 	       Kurung siku ganda kiri 	        300A
+》 	       Kurung siku ganda kanan 	        300B
 „ 	      Tanda petik kursif kiri bawah 	201E
 “ 	      Tanda petik kursif kiri atas 	    201C
 ‰ 	      Perseribu 	                    2030
@@ -55,7 +55,7 @@ tanda baca khusus
 simbol simbol umum
 
 
-Simbol  	 Nama  	 Kode 
+Simbol    Nama                          Kode 
 § 	      Segmen atau bagian dokumen 	00A7
 ¶ 	      Penanda paragraf (pilcrow) 	00B6
 © 	      Hak cipta 	                00A9
