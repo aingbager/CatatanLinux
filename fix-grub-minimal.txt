@@ -1,4 +1,4 @@
-####pix truobe grub bash-like minimal ###                                                                                                             
+####fix truoble grub bash-like minimal ###                                                                                                             
 *masuk live iso                                                                                                                                       
 *mount partisi efi                                                                                                                                    
 contoh mount /dev/sda1 /mnt/efi                                                                                                                       
