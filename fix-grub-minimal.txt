@@ -1,12 +1,17 @@
-####fix truoble grub bash-like minimal ###                                                                                                             
+#### fix truoble grub bash-like minimal ###
+                                                                                                             
 *masuk live iso                                                                                                                                       
 *mount partisi efi                                                                                                                                    
-contoh mount /dev/sda1 /mnt/efi                                                                                                                       
+contoh mount /dev/sda1 /mnt/efi
+                                                                                                                       
 mount partisi root(/)                                                                                                                                 
-contoh mount /dev/sda3 //mnt                                                                                                                          
+contoh mount /dev/sda3 /mnt
+                                                                                                                     
 *pindah root                                                                                                                                          
-arch-chroot /mnt                                                                                                                                      
+arch-chroot /mnt
+                                                                                                                                     
 *reconfigurasi boot                                                                                                                                   
-grub-mkconfig -o /boot/grub/grub.cfg                                                                                                                  
+grub-mkconfig -o /boot/grub/grub.cfg
+                                                                                                                
 exit                                                                                                                                                  
 reboot
