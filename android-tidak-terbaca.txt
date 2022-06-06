@@ -5,13 +5,14 @@ dengan desktop xfce
 
 solusi ada beberapa opsi:
 
-1. install android-mtp-transfer
-   $ sudo pacman -S android-mtp-transfer
+1. install android-file-transfer
+   $ sudo pacman -S android-file-transfer
 
 2 install gvfs-mtp
    $ pacman -S gvfs-mtp
 
 ##################
-dari kedua cara diatas yg work(bisa), adalah cara ke 2,
+
+dari kedua cara diatas yg work(bisa), adalah cara ke 2 di saya,
 
 bila perlu install nautilus: sudo pacman -S nautilus
