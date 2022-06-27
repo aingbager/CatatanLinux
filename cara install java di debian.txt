@@ -2,14 +2,14 @@
 
 ===> extract file hasil download tadi dengan mengetik di terminal: tar -zxf manafilejava.tar.gz
 dalam kasus ini saya menggunakan openjdk versi 17 jadi perintahnya adalah:
-tar -zxf openjdk-17_linux-x64_bin.tar.gz
+tar -zxf openjdk-18_linux-x64_bin.tar.gz
 
 ===> saya akan menaruh hasil extract file java tadi di folder opt,jadi perintahnya
-sudo mv jdk-17 /opt/
+sudo mv jdk-18 /opt/
 
 ===> edit file zshrc (atau bashrc bila menggunakan bash) dengan mengetik:
 
 nano ~/.zshrc
 tambahkan parameter berikut di zshrc
-export PATH="/opt/jdk-17/bin:$PATH"
+export PATH="/opt/jdk-18/bin:$PATH"
 lalu save
