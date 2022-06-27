@@ -11,5 +11,6 @@ sudo mv jdk-18 /opt/
 
 nano ~/.zshrc
 tambahkan parameter berikut di zshrc
-export PATH="/opt/jdk-18/bin:$PATH"
+export JAVA_HOME="/opt/jdk-18"
+export PATH="$PATH:$JAVA_HOME/bin""
 lalu save
