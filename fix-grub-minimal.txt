@@ -1,4 +1,4 @@
-#### fix truoble grub bash-like minimal ###
+#### fix trouble grub bash-like minimal ###
                                                                                                              
 *masuk live iso                                                                                                                                       
 *mount partisi efi                                                                                                                                    
